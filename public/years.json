@@ -1,0 +1,13 @@
+{
+    "years": [
+      {
+        "year": "2019",
+        "department": "/2019/departments.json"
+      },
+      {
+        "year": "2024",
+        "department": "/2024/departments.json"
+      }
+    ]
+  }
+  

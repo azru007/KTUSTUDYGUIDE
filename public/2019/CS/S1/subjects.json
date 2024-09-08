@@ -1,0 +1,28 @@
+{
+  "subjects": [
+    {
+      "subject": "subject",
+      "section": "/2019/CS/S1/subject/sections.json"
+    },
+    {
+      "subject": "subject2",
+      "section": "/2019/CS/S1/subject/sections.json"
+    },
+    {
+      "subject": "subject3",
+      "section": "/2019/CS/S1/subject/sections.json"
+    },
+    {
+      "subject": "subject 4",
+      "section": "/2019/CS/S1/subject/sections.json"
+    },
+    {
+      "subject": "subject 5",
+      "section": "/2019/CS/S1/subject/sections.json"
+    },
+    {
+      "subject": "subject 6",
+      "section": "/2019/CS/S2/subject/sections.json"
+    }
+  ]
+}
