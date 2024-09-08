@@ -1,0 +1,12 @@
+{
+  "semesters": [
+    {
+      "semester": "S1",
+      "subjects": "/2019/CS/S1/subjects.json"
+    },
+    {
+      "semester": "S2",
+      "subjects": "/2019/CS/S2/subjects.json"
+    }
+  ]
+}

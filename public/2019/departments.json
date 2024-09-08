@@ -1,0 +1,12 @@
+{
+  "departments": [
+    {
+      "department": "cse",
+      "semester": "/2019/CS/semesters.json"
+    },
+    {
+      "department": "ece",
+      "semester": "/2019/ECE/semesters.json"
+    }
+  ]
+}
